@@ -1,4 +1,0 @@
-this is a test for git
-add a information
-test add
-test add2
