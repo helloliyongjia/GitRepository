@@ -1,5 +1,4 @@
 test git remote origin Repository !
 
-develop:edit
 
 develop:edit2
